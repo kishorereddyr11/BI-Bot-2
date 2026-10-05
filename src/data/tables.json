@@ -1,0 +1,230 @@
+[
+ {
+  "group": "Helpdesk & Payroll",
+  "icon": "LifeBuoy",
+  "tables": [
+   {
+    "name": "Helpdesk_Tickets",
+    "rows": 10352,
+    "cols": 20,
+    "about": "HR helpdesk tickets across channels (the AI Copilot channel went live on 1-Mar-2026)."
+   },
+   {
+    "name": "Leave_Requests",
+    "rows": 26714,
+    "cols": 18,
+    "about": "Every leave request with its approval outcome."
+   },
+   {
+    "name": "Leave_Balances",
+    "rows": 4253,
+    "cols": 12,
+    "about": "Leave balances for the current leave year (active employees)."
+   },
+   {
+    "name": "Payslips",
+    "rows": 18563,
+    "cols": 23,
+    "about": "Monthly payslips, April 2025 to September 2026 (restricted: HR Admin and the employee only)."
+   },
+   {
+    "name": "Reimbursement_Claims",
+    "rows": 15845,
+    "cols": 20,
+    "about": "Expense reimbursement claims, April 2025 to September 2026."
+   },
+   {
+    "name": "Benefit_Enrollments",
+    "rows": 8870,
+    "cols": 15,
+    "about": "Employee enrollments in benefit plans."
+   },
+   {
+    "name": "Dependents",
+    "rows": 2368,
+    "cols": 11,
+    "about": "Dependents covered under health plans (spouse, children, parents)."
+   },
+   {
+    "name": "Document_Requests",
+    "rows": 2168,
+    "cols": 17,
+    "about": "Letter and certificate requests raised through the HR portal."
+   },
+   {
+    "name": "Salary_Structure",
+    "rows": 2261,
+    "cols": 15,
+    "about": "Current salary structure per employee (restricted: HR Admin and the employee only)."
+   },
+   {
+    "name": "Salary_Revisions",
+    "rows": 1491,
+    "cols": 12,
+    "about": "Annual appraisal revisions (last three cycles: Apr-2024, Apr-2025, Apr-2026)."
+   },
+   {
+    "name": "Employee_HR_Profile",
+    "rows": 2261,
+    "cols": 15,
+    "about": "HR attributes for every employee: manager, grade, probation, tax regime."
+   }
+  ]
+ },
+ {
+  "group": "Policies & Reference",
+  "icon": "BookOpen",
+  "tables": [
+   {
+    "name": "HR_Policies",
+    "rows": 20,
+    "cols": 13,
+    "about": "Approved HR policies the AI HR Helpdesk answers from."
+   },
+   {
+    "name": "HR_FAQs",
+    "rows": 52,
+    "cols": 9,
+    "about": "Approved question and answer pairs, each tied to a policy."
+   },
+   {
+    "name": "Leave_Types",
+    "rows": 8,
+    "cols": 12,
+    "about": "Leave types with quotas, carry-forward and rules (from the Leave Policy)."
+   },
+   {
+    "name": "Holiday_Calendar",
+    "rows": 22,
+    "cols": 6,
+    "about": "Company public holidays (dummy, illustrative). Used by leave day counts."
+   },
+   {
+    "name": "Payroll_Calendar",
+    "rows": 24,
+    "cols": 7,
+    "about": "Monthly payroll dates: cut-off, salary credit and payslip release."
+   },
+   {
+    "name": "Benefit_Plans",
+    "rows": 11,
+    "cols": 12,
+    "about": "Benefit plans (insurance, retirement, allowances, wellness) and their terms."
+   },
+   {
+    "name": "Reimbursement_Policy",
+    "rows": 9,
+    "cols": 9,
+    "about": "Claim categories with limits, windows and approval levels."
+   },
+   {
+    "name": "Document_Types",
+    "rows": 13,
+    "cols": 7,
+    "about": "Letters and certificates employees can request, with SLAs."
+   }
+  ]
+ },
+ {
+  "group": "Recruitment",
+  "icon": "Briefcase",
+  "tables": [
+   {
+    "name": "Job_Requisitions",
+    "rows": 1029,
+    "cols": 28,
+    "about": ""
+   },
+   {
+    "name": "Candidates",
+    "rows": 50868,
+    "cols": 18,
+    "about": ""
+   },
+   {
+    "name": "Applications",
+    "rows": 53183,
+    "cols": 17,
+    "about": ""
+   },
+   {
+    "name": "Interviews",
+    "rows": 45076,
+    "cols": 24,
+    "about": ""
+   },
+   {
+    "name": "Interview_Panel",
+    "rows": 53487,
+    "cols": 9,
+    "about": ""
+   },
+   {
+    "name": "Offers",
+    "rows": 3159,
+    "cols": 23,
+    "about": ""
+   },
+   {
+    "name": "Sources",
+    "rows": 9,
+    "cols": 7,
+    "about": ""
+   },
+   {
+    "name": "Rounds",
+    "rows": 5,
+    "cols": 6,
+    "about": ""
+   },
+   {
+    "name": "Round_Plan",
+    "rows": 24,
+    "cols": 6,
+    "about": ""
+   },
+   {
+    "name": "Rejection_Reasons",
+    "rows": 20,
+    "cols": 4,
+    "about": ""
+   },
+   {
+    "name": "Roles",
+    "rows": 33,
+    "cols": 5,
+    "about": ""
+   },
+   {
+    "name": "Experience_Levels",
+    "rows": 6,
+    "cols": 8,
+    "about": ""
+   }
+  ]
+ },
+ {
+  "group": "Company",
+  "icon": "Building2",
+  "tables": [
+   {
+    "name": "Employees",
+    "rows": 2261,
+    "cols": 18,
+    "about": ""
+   },
+   {
+    "name": "Departments",
+    "rows": 13,
+    "cols": 8,
+    "about": ""
+   },
+   {
+    "name": "Locations",
+    "rows": 4,
+    "cols": 5,
+    "about": ""
+   }
+  ]
+ }
+]
