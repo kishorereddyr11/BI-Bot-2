@@ -24,6 +24,3 @@ node scripts/gen-icons.mjs   # only if question icons change
 ```
 - Questions/categories: `QUESTION_LIBRARY.md` (text) + `scripts/q_*.py` (the calculation for each question number).
 - Generated JSON is committed so Vercel only needs `npm run build`.
-
-## Logo
-Put the company logo at `public/logo.png` (falls back to `public/logo.webp`).
